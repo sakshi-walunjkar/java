@@ -1,220 +1,224 @@
-# \# Java Programming Repository
+\# Java Programming Repository
 
-# 
 
-# A well-structured collection of Java programs covering core programming concepts, problem-solving, and logic building.
 
-# This repository is designed for \*\*learning, practice, and interview preparation\*\*.
+A structured collection of Java programs designed to build strong fundamentals, improve problem-solving skills, and prepare for technical interviews.
 
-# 
 
-# \---
 
-# 
 
-# \## 📂 Folder Structure
 
-# 
+\## Overview
 
-# ```
 
-# java/
 
-# &#x20;├── basic/        → Fundamental programs (if-else, switch, operators)
+This repository contains categorized Java programs covering core concepts from basics to problem-solving techniques. Each folder focuses on a specific topic for easy learning and revision.
 
-# &#x20;├── loop/         → Loop-based problems (for, while, do-while)
 
-# &#x20;├── pattern/      → Pattern printing programs
 
-# &#x20;├── function/     → Functions \& methods in Java
 
-# &#x20;├── Recursion/    → Recursive problem-solving
 
-# &#x20;└── Array/        → Array-based problems
+\## Project Structure
 
-# ```
 
-# 
 
-# \---
 
-# 
 
-# \## 🚀 Topics Covered
+java/
 
-# 
+&#x20;├── basic/        # Fundamentals (if-else, switch, operators)
 
-# \### 🔹 Basic
+&#x20;├── loop/         # Loop-based problems
 
-# 
+&#x20;├── pattern/      # Pattern printing programs
 
-# \* Data types
+&#x20;├── function/     # Functions and methods
 
-# \* Conditional statements (if-else)
+&#x20;├── Recursion/    # Recursive solutions
 
-# \* Switch case
+&#x20;└── Array/        # Array-based problems
 
-# \* Operators
 
-# 
 
-# \### 🔹 Loop
 
-# 
 
-# \* For loop
 
-# \* While loop
 
-# \* Do-while loop
+\## Topics Covered
 
-# \* Nested loops
 
-# 
 
-# \### 🔹 Pattern
+\### Basic
 
-# 
 
-# \* Star patterns
 
-# \* Number patterns
+\* Data types and variables
 
-# \* Pyramid structures
+\* Conditional statements (if-else)
 
-# 
+\* Switch case
 
-# \### 🔹 Function
+\* Operators
 
-# 
 
-# \* Method creation
 
-# \* Parameter passing
+\### Loop
 
-# \* Return types
 
-# \* Modular programming
 
-# 
+\* for loop
 
-# \### 🔹 Recursion
+\* while loop
 
-# 
+\* do-while loop
 
-# \* Recursive functions
+\* Nested loops
 
-# \* Base case \& recursive case
 
-# \* Factorial, Fibonacci
 
-# \* Backtracking basics
+\### Pattern
 
-# 
 
-# \### 🔹 Array
 
-# 
+\* Star patterns
 
-# \* Traversing arrays
+\* Number patterns
 
-# \* Searching \& sorting basics
+\* Pyramid designs
 
-# \* Array operations
 
-# \* Problem-solving
 
-# 
+\### Function
 
-# \---
 
-# 
 
-# \## 🛠️ Tech Stack
+\* Method creation
 
-# 
+\* Parameter passing
 
-# \* Java
+\* Return values
 
-# \* JDK (Java Development Kit)
+\* Code reusability
 
-# 
 
-# \---
 
-# 
+\### Recursion
 
-# \## ▶️ How to Run Programs
 
-# 
 
-# 1\. Open terminal / command prompt
+\* Base and recursive cases
 
-# 2\. Navigate to folder:
+\* Factorial
 
-# 
+\* Fibonacci
 
-# &#x20;  ```
+\* Recursive logic
 
-# &#x20;  cd path/to/java/folder
 
-# &#x20;  ```
 
-# 3\. Compile:
+\### Array
 
-# 
 
-# &#x20;  ```
 
-# &#x20;  javac FileName.java
+\* Array traversal
 
-# &#x20;  ```
+\* Searching techniques
 
-# 4\. Run:
+\* Basic sorting
 
-# 
+\* Problem-solving
 
-# &#x20;  ```
 
-# &#x20;  java FileName
 
-# &#x20;  ```
 
-# 
 
-# \---
 
-# 
 
-# \## 📌 Purpose of This Repository
+\## Tech Stack
 
-# 
 
-# \* Strengthen core Java concepts
 
-# \* Improve logical thinking
+\* Java (JDK)
 
-# \* Prepare for coding interviews
 
-# \* Build a strong programming foundation
 
-# 
 
-# \---
 
-# 
+\## How to Run
 
-# \## 🌟 Future Improvements
 
-# 
 
-# \* Add advanced data structures (LinkedList, Stack, Queue)
+1\. Navigate to the folder:
 
-# \* Add sorting \& searching algorithms
+&#x20;  cd path/to/java/folder
 
-# \* Add object-oriented programming (OOP) concepts
+&#x20;  
 
-# \* Add interview-based questions
 
-# 
+
+2\. Compile:
+
+&#x20;  javac FileName.java
+
+&#x20;  
+
+
+
+3\. Run:
+
+&#x20;  java FileName
+
+&#x20; 
+
+
+
+\## Objectives
+
+
+
+\* Strengthen Java fundamentals
+
+\* Improve logical thinking
+
+\* Practice coding problems
+
+\* Prepare for technical interviews
+
+
+
+
+
+\## Future Enhancements
+
+
+
+\* Add Data Structures (Stack, Queue, LinkedList)
+
+\* Add Sorting and Searching Algorithms
+
+\* Add Object-Oriented Programming concepts
+
+\* Add interview-based questions
+
+
+
+
+
+\## Notes
+
+
+
+\* Compiled files (.class) should be ignored
+
+\* Only source code is maintained
+
+
+
+
+
+\## Author
+
+
+
+Sakshi Walunjkar
 
